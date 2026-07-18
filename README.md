@@ -1,7 +1,7 @@
-Basmah - Gaza Digital Archive
+Basma - Gaza Digital Archive
 
 📌 About the Project:
-Basmah is a web-based digital archive designed to preserve and document the stories, memories, photos, and videos of the people of Gaza. The platform allows users to share their experiences while providing administrators with tools to review, organize, and publish submitted content.
+Basma is a web-based digital archive designed to preserve and document the stories, memories, photos, and videos of the people of Gaza. The platform allows users to share their experiences while providing administrators with tools to review, organize, and publish submitted content.
 The project aims to preserve historical memories for future generations through an accessible and organized digital platform.
 
 🎯 Project Objectives
